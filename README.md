@@ -56,5 +56,3 @@ Encrypted message: Khoor, Zruog!
 
 - Python 3.1
 ---
-
-Feel free to customize it further to suit your style or any additional details you want to include!
