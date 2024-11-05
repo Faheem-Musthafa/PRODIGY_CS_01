@@ -54,12 +54,7 @@ Encrypted message: Khoor, Zruog!
 
 ## Requirements
 
-- Python 3.x
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
+- Python 3.1
 ---
 
 Feel free to customize it further to suit your style or any additional details you want to include!
