@@ -17,7 +17,7 @@ This is a simple command-line application for encrypting, decrypting, and cracki
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/caesar-cipher.git
+   git clone https://github.com/yourusername/caesar-cipher.git](https://github.com/Faheem-Musthafa/PRODIGY_CS_01.git
    cd caesar-cipher
    ```
 
